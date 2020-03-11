@@ -21,8 +21,7 @@ For a full list of supported devices please check https://github.com/OpenHMD/Ope
   * Option 2: GNU Autotools (if you're building from the git repository)
   * Option 3: CMake
   * HIDAPI
-    * http://www.signal11.us/oss/hidapi/
-    * https://github.com/signal11/hidapi/
+    * https://github.com/libusb/hidapi
 
 ## Language Bindings
   * GO bindings by Marko (Apfel)
